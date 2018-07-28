@@ -1,1 +1,1 @@
-Installer is incompatible with some of the systems, so in case you cannot run it please use the packaged version.
+Installer is incompatible with some of the systems, in case you cannot run it please install latest Java Development Kit and Java software.
