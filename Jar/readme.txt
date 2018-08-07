@@ -1,1 +1,1 @@
-this .jar file requires Java installed on the computer.
+This .jar file requires Java installed on the computer.
