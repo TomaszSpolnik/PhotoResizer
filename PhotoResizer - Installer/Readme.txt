@@ -1,1 +1,2 @@
-Installer is incompatible with some of the systems, in case you cannot run it please install latest Java Development Kit and Java software.
+Requires Java installed on the computer.
+Install program by running PhotoResizer-1.0.exe file.
